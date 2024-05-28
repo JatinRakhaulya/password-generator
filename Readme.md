@@ -2,10 +2,6 @@
 
 Welcome to SecurePass, your reliable password generator for creating strong and secure passwords. In an era where online security is paramount, SecurePass helps you generate complex and unique passwords to safeguard your digital accounts. Say goodbye to weak passwords and enhance your security with ease.
 
-## Visit SecurePass - Your Password Generator
-
-<a href='https://harshvardhan32.github.io/Password-Generator/'>SecurePass - Your Password Generator</a>
-
 ## Features
 
 - **Password Customization:** Tailor your passwords to meet specific requirements, including length, inclusion of numbers, special characters, and more.
